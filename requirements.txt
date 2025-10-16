@@ -1,0 +1,11 @@
+## Requisitos (dependencias)
+- Python 3.8+ (recomendado)
+- streamlit
+- pandas
+- plotly
+
+Puedes instalar las dependencias con:
+
+```bash
+conda activate vehicles_env
+pip install -r requirements.txt
