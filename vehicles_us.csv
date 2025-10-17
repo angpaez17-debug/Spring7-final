@@ -1,0 +1,6 @@
+price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
+10000,2011,ford f-150,good,8,gas,125000,automatic,pickup,white,True,2018-06-05,79
+7500,2013,honda civic,excellent,4,gas,85000,automatic,sedan,black,False,2018-07-15,45
+12000,2015,chevrolet silverado,like new,8,gas,90000,automatic,pickup,red,True,2018-05-22,65
+4000,2008,toyota corolla,fair,4,gas,150000,manual,sedan,blue,False,2018-07-01,90
+15000,2016,jeep grand cherokee,excellent,6,gas,70000,automatic,suv,gray,True,2018-08-12,30
