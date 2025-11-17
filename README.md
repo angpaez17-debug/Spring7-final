@@ -1,4 +1,4 @@
-# Spring7-final  
+# Anuncios de vehículos en EE. UU.  
 *Cuadro de mandos — Análisis de anuncios de coches (EE. UU.)*
 
 Aplicación web desarrollada con *Streamlit, **Pandas* y *Plotly* para explorar un conjunto de anuncios de vehículos en EE. UU.  
